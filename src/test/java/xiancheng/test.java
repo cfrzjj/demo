@@ -13,11 +13,9 @@ public class test {
         muityThread muityThread = new muityThread();
         for (int i = 0; i < count; i++) {
             fixedThreadPool.execute(muityThread);
-<<<<<<< .mine
             int aaa = 3;
-=======
                 int bbb = 3;       
->>>>>>> .theirs
+             int ccc = 3;  
         }
     }
 }
