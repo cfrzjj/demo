@@ -16,6 +16,7 @@ public class test {
             int aaa = 3;
                 int bbb = 3;       
              int ccc = 3;  
+                int ddd = 3;   
         }
     }
 }
